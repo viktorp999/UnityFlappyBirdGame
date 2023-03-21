@@ -1,0 +1,8 @@
+.vs/
+bin/
+Build/
+Library/
+Logs/
+obj/
+Packages/
+UserSettings/
